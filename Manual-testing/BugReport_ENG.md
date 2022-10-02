@@ -7,7 +7,7 @@
 
 **REPEATABILITY** - _bug occurring frequency_
 
-**PRECONDITION** - _a condition necessary to reproduce the bug _
+**PRECONDITION** - _a condition necessary to reproduce the bug_
 
 **TEST DATA** - _test data necessary to reproduce the bug_
 
