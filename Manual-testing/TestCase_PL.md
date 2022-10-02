@@ -1,19 +1,21 @@
 # Przykład szablonu wykorzystywanego pod wykonanie przypadku testowego
 __TEST - _Tytuł testu_ __
 
-**WARUNKI TESTOWE**:
+**WARUNKI TESTOWE**
 
-**DANE TESTOWE**:
+**DANE TESTOWE**
 
-**KROKI TESTOWE**:
+**KROKI TESTOWE**
 
-**OCZEKIWANY REZULTAT**:
+**OCZEKIWANY REZULTAT**
 
-**RZECZYWISTY REZULTAT**:
+**RZECZYWISTY REZULTAT**
 
-**PODSUMOWANIE**:
-**WYNIK TESTU**:
-**ZAŁĄCZNIKI**:
+**PODSUMOWANIE**
+
+**WYNIK TESTU**
+
+**ZAŁĄCZNIKI**
 
 =====================================
 
@@ -22,11 +24,17 @@ __TEST - _Tytuł testu_ __
 __TEST - _Tytuł testu_ __
 
 **WARUNKI TESTOWE**:
+
 **DANE TESTOWE**:
+
 **KROKI TESTOWE**:
+
 **OCZEKIWANY REZULTAT**:
+
 **RZECZYWISTY REZULTAT**:
 
 **PODSUMOWANIE**:
+
 **WYNIK TESTU**:
+
 **ZAŁĄCZNIKI**:
