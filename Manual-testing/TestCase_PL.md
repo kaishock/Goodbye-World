@@ -53,11 +53,11 @@ PT1 - Wyszukanie hasła "Testowanie oprogramowania"
   - Użytkownik zostaje przeniesiony na podstronę "Testowanie oprogramowania"
   - Adres URL podstrony jest zgodny z oczekiwanym rezultatem
 
-PT2 - Negatywny przypadek testowy - wpisanie hasła małymi literami "testowanie oprogramowania"
+PT2 - Wyszukanie hasła wpisanego tylko małymi literami "testowanie oprogramowania"
   - Użytkownik zostaje przeniesiony na podstronę "Testowanie oprogramowania"
   - Adres URL podstrony jest zgodny z oczekiwanym rezultatem
 
-PT3 - Negatywny przypadek testowy - wpisanie hasła wielkimi literami "TESTOWANIE OPROGRAMOWANIA"
+PT3 - Wyszukanie hasła wpisanego tylko wielkimi literami "TESTOWANIE OPROGRAMOWANIA"
   - Użytkownik zostaje przeniesiony na podstronę "Testowanie oprogramowania"
   - Adres URL podstrony jest zgodny z oczekiwanym rezultatem
 
