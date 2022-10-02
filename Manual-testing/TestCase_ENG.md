@@ -21,7 +21,6 @@
 
 **ATTACHEMENTS**
 
-=====================================
 
 ## Sample test case based on www.wikipedia.org
 
