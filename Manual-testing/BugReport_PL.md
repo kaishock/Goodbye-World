@@ -5,20 +5,20 @@
 
 **ŚRODOWISKO** - _środowisko dla reprodukcji błędu_
 
-**POWTARZALNOŚĆ**
+**POWTARZALNOŚĆ** - _częstotliwość występowania_
 
-**WARUNEK WSTĘPNY**
+**WARUNEK WSTĘPNY** - _warunek niezbędny do odtworzenia błędu_
 
-**DANE TESTOWE**
+**DANE TESTOWE** - _dane testowe niezbędne do odtworzenia błędu_
 
-**KROKI REPRODUKCYJNE**
+**KROKI REPRODUKCYJNE** - _kroki do odtworzenia błędu_
 
-**RZECZYWISTY REZULTAT**
+**OBECNY REZULTAT** - _obecny stan testowanego oprogramowania_
 
-**OCZEKIWANY REZULTAT**
+**OCZEKIWANY REZULTAT** - _oczekiwane, prawidłowe zachowanie oprogramowania_
 
-**ZAŁĄCZNIKI**
+**ZAŁĄCZNIKI** - _materiały dodatkowe (np. wizualne)_
 
-**PODSUMOWANIE**
+**PODSUMOWANIE** - _miejsce do podsumowania zgłoszenia i przekazania dodatkowych uwag dla developera_
 
 ## Przykładowe zgłoszenie błędu na podstawie ...
