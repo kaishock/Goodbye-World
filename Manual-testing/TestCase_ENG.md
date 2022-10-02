@@ -55,12 +55,12 @@ TC1 - Typing "Software testing" in search box
   - URL address matches expected result
 
 TC2 - Typing data only with small letters ("software testing") in search box
-  - Użytkownik zostaje przeniesiony na podstronę "Testowanie oprogramowania"
-  - Adres URL podstrony jest zgodny z oczekiwanym rezultatem
+  - User is sent to article titled "Software testing"
+  - URL address matches expected result
 
 TC3 - Typing data only with capital letters ("SOFTWARE TESTING") in search box
-  - Użytkownik zostaje przeniesiony na podstronę "Testowanie oprogramowania"
-  - Adres URL podstrony jest zgodny z oczekiwanym rezultatem
+  - User is sent to article titled "Software testing"
+  - URL address matches expected result
 
 **SUMMARY**:
   - Verification of "Search Wikipedia" search box completed with expected results.
