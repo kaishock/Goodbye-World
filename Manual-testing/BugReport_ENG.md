@@ -1,1 +1,1 @@
-#Bug report template
+# Bug report template
