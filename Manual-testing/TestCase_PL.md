@@ -21,7 +21,6 @@
 
 **ZAŁĄCZNIKI**
 
-=====================================
 
 ## Przykładowy przypadek testowy na podstawie www.wikipedia.pl
 
