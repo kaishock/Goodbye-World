@@ -1,9 +1,9 @@
 # Szablon dla zgłoszenia błędu
-**TYTUŁ**
+**TYTUŁ** - _tytuł zgłoszenia_
 
-**PRIORYTET**
+**PRIORYTET** - _ważność zgłoszenia_
 
-**ŚRODOWISKO**
+**ŚRODOWISKO** - _środowisko dla reprodukcji błędu_
 
 **POWTARZALNOŚĆ**
 
