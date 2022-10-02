@@ -24,7 +24,7 @@
 
 ## Sample test case based on www.wikipedia.org
 
-**TEST - *"Search Wikipedia" search box allows to search for specified data* **
+__TEST - *"Search Wikipedia" search box allows to search for specified data* __
 
 **TEST ENVIRONMENT**
   - https://en.wikipedia.org/
