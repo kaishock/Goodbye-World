@@ -1,0 +1,1 @@
+# Szablon dla planu testów
