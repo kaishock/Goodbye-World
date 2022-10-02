@@ -47,7 +47,7 @@
   - User is sent to article titled "Software testing"
   - Expected URL address is https://en.wikipedia.org/wiki/Software_testing
 
-**ACTUAL RESULT**:
+**ACTUAL RESULT:**
 
 TC1 - Typing "Software testing" in search box
   - User is sent to article titled "Software testing"
