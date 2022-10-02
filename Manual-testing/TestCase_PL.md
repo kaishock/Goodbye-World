@@ -1,4 +1,4 @@
-# Przykład szablonu wykorzystywanego pod wykonanie przypadku testowego
+# Szablon dla przypadku testowego
 **TEST - _Tytuł testu_**
 
 **ŚRODOWISKO TESTOWE**
