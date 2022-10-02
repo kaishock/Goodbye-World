@@ -1,4 +1,4 @@
-# Przykład szablonu wykorzystywanego pod wykonanie przypadku testowego
+# Test case template 
 **TEST - _Test title_**
 
 **TEST ENVIRONMENT**
@@ -23,7 +23,7 @@
 
 =====================================
 
-## Przykładowy przypadek testowy na podstawie www.wikipedia.pl
+## Sample test case based on www.wikipedia.org
 
 **TEST - _ looking for test data through search box "Search Wikipedia"_**
 
