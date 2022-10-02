@@ -3,7 +3,7 @@
 
 **PRIORYTET** - _ważność zgłoszenia_
 
-**ŚRODOWISKO** - _środowisko dla reprodukcji błędu_
+**ŚRODOWISKO** - _środowisko reprodukcji błędu_
 
 **POWTARZALNOŚĆ** - _częstotliwość występowania_
 
