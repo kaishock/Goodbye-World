@@ -70,4 +70,5 @@ TC3 - Typing data only with capital letters ("SOFTWARE TESTING") in search box
 
 **ATTACHEMENTS**:
 
-![tc_input_wikipedia](https://user-images.githubusercontent.com/72787034/193466758-413b20a6-31e0-44dc-b137-379488838891.PNG)
+![tc_eng_wikip](https://user-images.githubusercontent.com/72787034/193470159-ee2eed1a-64e7-45b0-bc76-2593f7ff0961.PNG)
+
