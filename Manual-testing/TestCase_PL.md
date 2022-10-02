@@ -68,4 +68,5 @@ PT3 - Negatywny przypadek testowy - wpisanie hasła wielkimi literami "TESTOWANI
   - **Test zaliczony**
 
 **ZAŁĄCZNIKI**:
+
 ![tc_input_wikipedia](https://user-images.githubusercontent.com/72787034/193466758-413b20a6-31e0-44dc-b137-379488838891.PNG)
