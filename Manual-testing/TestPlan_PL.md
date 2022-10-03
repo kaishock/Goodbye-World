@@ -72,10 +72,10 @@
 8. **Zawieszenie i ponowne rozpoczęcie testów** - _określenie, kiedy testowanie powinno zostać zawieszone oraz kiedy zawieszony proces powinien być ponownie rozpoczęty?_
   - Przykładowe powody zawieszenia testów:
   -   Niespełnienie kryteriów akceptacji
-  -   Budżet projektowy wykorzystany przed ukończeniem testów
+  -   Źle oszacowane koszta projektu
   -  Przykładowe powody wznowienia testów:
   -   Zmiana kryteriów akceptacji lub poprawa błędów
-  -   Zmiana budżetu projektowego umożliwiająca wznowienie testów
+  -   Zmiana budżetu umożliwiająca wznowienie testów
 
 9. **Proces śledzenia defektów** - _określenie sposobu i miejsca śledzenia defektów_
   - Aby defekt nie został zapomniany, powinien zostać zgłoszony za pomocą narzędzi określonych w planie testów
