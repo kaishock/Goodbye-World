@@ -36,7 +36,9 @@
   - Zaraportowanie defektów
   - Przeprowadzenie spotkania dotyczącego defektów
   - Stworzenie raportu
-4. **Plan testów oraz harmonogram** - _co będzie dostawą testów i kiedy poszczególne dostawy będą realizowane?_
+
+
+4. **Harmonogram testów** - _co będzie dostawą testów i kiedy poszczególne dostawy będą realizowane?_
   - Lista grup zadań testowych wraz z opisem
   - Wstępne przypisanie zadań do osób
 
