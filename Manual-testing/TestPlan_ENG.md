@@ -24,7 +24,7 @@
 
 1. **The project team** - _the list of all members of the project team, including their roles and way of contact_
 
-2. **Responsible for the tests** - _the list of members responsible for test efforts_
+2. **The testing team members** - _the list of members responsible for test efforts_
 
 3. **Test tasks** - _sample list of test tasks_
   - Creating of test plan, along with test scenarios and test cases
