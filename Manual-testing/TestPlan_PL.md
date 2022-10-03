@@ -9,12 +9,18 @@
 ## II - Opis testów
 
 1. **Testowany obiekt** - _produkt lub aplikacja będące celem testów_
+  
   1.1 **Obiekt**
   -   Funkcjonalności do przetestowania
+  
   1.2 **Obiekt**
   -    Funkcjonalności do przetestowania
+
+
 2. **Wymagania systemowe** - _wymagania konfiguracyjne dla oprogramowania i sprzętu; wymagania środowiskowe_
-3. **Wyjście dla procesu tworzenia produktu** - _opis kryteriów akceptacyunych dla testowanych obiektów_
+
+
+4. **Wyjście dla procesu tworzenia produktu** - _opis kryteriów akceptacyunych dla testowanych obiektów_
 
 ## III - Zarządzanie projektem testowym
 
@@ -33,12 +39,20 @@
 4. **Plan testów oraz harmonogram** - _co będzie dostawą testów i kiedy poszczególne dostawy będą realizowane?_
   - Lista grup zadań testowych wraz z opisem
   - Wstępne przypisanie zadań do osób
+
+
 5. **Potrzeby treningowe** - _zidentyfikowanie potrzeb szkolenionych osób w projekcie_
+
+
 6. **Potrzeby środowiskowe** - _wylistowanie komponentów sprzętowych oraz oprogramowania potrzebnych do ukończenia projektu; ich dostępność oraz startegia w ich pozyskiwaniu_
+
+
   6.1 **Komponenty sprzętowe**
   - Sprzęt
   - Oprogramowanie
   - Dostępy
+
+
   6.2 **Narzędzia testowe** - _wylistowanie narzędzi testowych potrzebnych do ukończenia projektu_
   - Narzędzia zarządzania defektami (np. Jira)
   - Narzędzia zarządzania testami (np. Xray, Test Rail)
