@@ -5,7 +5,7 @@ My motto is: _"The more you know, the faster you learn. The faster you learn, th
 
 I have been gaining first experience working for Skycash Poland since march 2021. Their main product is a mobile payment platform - application **Skycash**.
 
-During this period, I have been conducting functional, exploratory and API tests as well as regressions. I have participated in projects in the following industries: public transport, rail transport, entertainment, finances.
+During this period, I have been conducting functional, exploratory and API tests as well as regressions. I took first steps with preparing automation tests (Selenium + Python). I have participated in projects in the following industries: public transport, rail transport, entertainment, finances.
 
 I have an ISTQB Foundation Level certificate.
 
