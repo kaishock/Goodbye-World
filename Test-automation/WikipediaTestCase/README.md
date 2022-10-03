@@ -4,7 +4,7 @@ Caring about maintance of Test Case I keep different part of code in a few pytho
 
 Each file connects with each other as in attached picture. Test executions are in **main** file.
 
-Such division was inspired by tutorial provided by [TechWithTim](https://www.youtube.com/c/TechWithTim)
+Such division was inspired by tutorial created by [TechWithTim](https://www.youtube.com/c/TechWithTim)
 
 > Mapping of test case architecture
 
