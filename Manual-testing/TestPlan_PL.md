@@ -20,7 +20,7 @@
 2. **Wymagania systemowe** - _wymagania konfiguracyjne dla oprogramowania i sprzętu; wymagania środowiskowe_
 
 
-4. **Wyjście dla procesu tworzenia produktu** - _opis kryteriów akceptacyunych dla testowanych obiektów_
+4. **Wyjście dla procesu tworzenia produktu** - _opis kryteriów akceptacyjnych dla testowanych obiektów_
 
 ## III - Zarządzanie projektem testowym
 
