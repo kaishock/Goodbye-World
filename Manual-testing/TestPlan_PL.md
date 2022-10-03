@@ -55,7 +55,7 @@
   - Dostępy
 
 
-  6.2 **Narzędzia testowe** - _wylistowanie narzędzi testowych potrzebnych do ukończenia projektu_
+  6.2 **Narzędzia testowe**
   - Narzędzia zarządzania defektami (np. Jira)
   - Narzędzia zarządzania testami (np. Xray, Test Rail)
   - Narzędzia komunikacji (np. Gmail, Zoom, Mattermost)
