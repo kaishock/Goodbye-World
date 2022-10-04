@@ -7,7 +7,7 @@ from WikipediaTestCase.TC_englishSite.main_wikiEN import Wiki_EN
 TC1 = unittest.TestLoader().loadTestsFromTestCase(Wiki_PL)
 TC2 = unittest.TestLoader().loadTestsFromTestCase(Wiki_EN)
 
-#Przygotowanie Test Suites
+#Creating Test Suites
 masterTestSuite = unittest.TestSuite([TC1, TC2])
 polishWikipediaTestSuite = unittest.TestSuite([TC1])
 englishWikipediaTestSuite = unittest.TestSuite([TC2])
