@@ -3,9 +3,10 @@ My name is **Kajetan Szokalski**. I am from Poland and have been working as a So
 
 My motto is: _"The more you know, the faster you learn. The faster you learn, the more you know"_. 
 
-I have been gaining first experience working for Skycash Poland since march 2021. Their main product is a mobile payment platform - application **Skycash**.
+I have gained first experience at uTest, where I have conducted exploratory tests and reported bugs.
 
-During this period, I have been conducting functional, exploratory and API tests as well as regressions. I took first steps in test automations (Selenium + Python). I have participated in projects in the following industries: public transport, rail transport, entertainment, finances.
+Shortly after, I have started working for SkyCash Poland as Junior Application Tester. Their main product is a mobile payment platform - application **Skycash**.
+In SkyCash, I have been conducting functional, exploratory and API tests as well as regressions. I took first steps in test automations (Selenium + Python). I have participated in projects in the following industries: public transport, rail transport, entertainment, finances.
 
 I have an ISTQB Foundation Level certificate.
 
