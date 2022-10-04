@@ -23,7 +23,6 @@ class Wiki_EN(unittest.TestCase):
         assert currentPage.is_article_title_matches()
         print("User is present on article about software testing")
 
-
     def test_type_data_small_letters(self):
         mainPage = page_wikiEN.MainPage(self.driver)
         mainPage.type_data_small_letters()
