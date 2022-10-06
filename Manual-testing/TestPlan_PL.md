@@ -80,7 +80,7 @@
 9. **Proces śledzenia defektów** - _określenie sposobu i miejsca śledzenia defektów_
   - Aby defekt nie został zapomniany, powinien zostać zgłoszony za pomocą narzędzi określonych w planie testów
 
-10. **Śledzenie statustu testów i raportowanie**
+10. **Śledzenie statusu testów i raportowanie**
   - Statusty testów należy śledzić za pomocą narzędzi określonych w planie testów. Na ich podstawie zespół testowy może przygotować odpowiedni raport.
 
 > _plan testów stworzony na bazie wiedzy własnej oraz www.testerzy.pl_
