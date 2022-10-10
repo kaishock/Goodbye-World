@@ -21,4 +21,13 @@
 
 **SUMMARY** - _summary of report and additional notes for developers_
 
-## Sample bug report based on ...
+## Features of a good bug report:
+- preceded by an analysis **(certainty**),
+- singularity (**one error, one report**),
+- well described (**the title is the most important**),
+- check if bug is not already reported (**avoid duplication**),
+- communicates in simple words what happened (**simplicity**),
+- determining the severity of the error (**error severity**),
+- urgent defect is urgently reported (**urgency**)
+
+> Bug report template created on own knowledge, features of good bug report are based on https://testerzy.pl
