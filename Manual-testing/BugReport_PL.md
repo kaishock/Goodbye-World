@@ -21,4 +21,12 @@
 
 **PODSUMOWANIE** - _miejsce do podsumowania zgłoszenia i przekazania dodatkowych uwag dla developera_
 
-## Przykładowe zgłoszenie błędu na podstawie ...
+## Cechy dobrego raportu błędów:
+
+- poprzedzony analizą (**pewność**),
+- pojedynczość (**jeden błąd, jeden raport**),
+- dobrze opisany (**najważniejszy jest tytuł**),
+- nie może być zduplikowany (**duplikat**),
+- przekazuje w prostych słowach co się wydarzyło (**prostota**),
+- określenie poważności błędu (**waga błędu**),
+- pilny defekt jest pilnie zgłoszony (**pilność**)
