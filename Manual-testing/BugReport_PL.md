@@ -30,3 +30,5 @@
 - przekazuje w prostych słowach co się wydarzyło (**prostota**),
 - określenie poważności błędu (**waga błędu**),
 - pilny defekt jest pilnie zgłoszony (**pilność**)
+
+>szablon raportu błędów stworzony na bazie wiedzy własnej, cechy dobrego raportu na bazie www.testerzy.pl
